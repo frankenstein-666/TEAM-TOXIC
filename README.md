@@ -11,8 +11,6 @@ BY
 
 
 CONTACT US ON TELEGRAM 
-## 📑 Acknowledgement
-
 - [TOXIC ALIEN](https://github.com/TOXIC4LIEN)
-- [FRANKENSTEIN](https://github.com/FRANKENSTEIN)
+- [FRANKENSTEIN](https://github.com/FRANKENSTEIN-666)
 
